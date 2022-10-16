@@ -1,12 +1,14 @@
  <p align="center"><a href="https://danielvcode.github.io"><img width="50%" alt="Hello, I'm DanielV." src="./assets/full.png" /></a></p>
- Hi, I'm Daniel Vieira, a full stack developer and ethical hacker
+<h4>🟣 Hi, I'm Daniel Vieira, a full stack developer and ethical hacker </h4> 
+
 
 **About me**
 
+- 💼 Currently, my main focus of my career is in the areas of web and mobile development. I use a JavaScript stack (Node, React & React Native) to develop on both fronts.
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub
+- 👁‍🗨 I really like programming. I am an information security enthusiast. I like to test firewall and identify vulnerabilities
 
-- ❤️ I love writing Javascript, and hunt bugs in companies
+- 💜 I love writing Javascript, and hunt bugs in companies
 
 - 💬 Ask me about anything [here](https://github.com/danielvcode/danielvcode/issues)
 
