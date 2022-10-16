@@ -1,7 +1,4 @@
-<p align="center"><a href="https://danielvcode.github.io"><img width="50%" alt="Hello, I'm DanielV." src="./assets/full.png" /></a></p>
-
-<br />
-
+ <p align="center"><a href="https://danielvcode.github.io"><img width="50%" alt="Hello, I'm DanielV." src="./assets/full.png" /></a></p>
  Hi, I'm Daniel Vieira, a full stack developer and ethical hacker
 
 **About me**
@@ -35,7 +32,6 @@
 <h3>👀 &nbsp;Git Visits</h3>
 
 ### ![Visitor Count](https://profile-counter.glitch.me/danielvcode/count.svg)
-
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielvcode&show_icons=true&icon_color=8C52FF&border_color=8C52FF&bg_color=000000&text_color=8C52FF&title_color=8C52FF)
  
