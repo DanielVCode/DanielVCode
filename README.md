@@ -23,7 +23,7 @@
 ![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
 
-<h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
+<h3>⚙️ &nbsp;Back-end and Database:</h3>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=2D79C7)
