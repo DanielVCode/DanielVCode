@@ -27,8 +27,9 @@
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP&logoColor=2D79C7)
-![MYSQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
+![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=CSHARP&logoColor=9973d1)
 ![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
+![MYSQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 <h3>👀 &nbsp;Git Visits</h3>
