@@ -37,7 +37,6 @@
   [<img align="center" alt="Insomnia" height="30" width="30" src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/insomnia.svg" />](https://insomnia.rest/ "Insomnia")
   [<img align="center" alt="Postman" height="30" width="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />](https://learning.postman.com/docs/developer/intro-api/ "Postman")
   [<img align="center" alt="Linux" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />](https://www.linux.org/ "Linux")
-  [<img align="center" alt="Linux" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />](https://www.linux.org/ "Linux")
   [<img align="center" alt="Ubuntu" height="30" width="30" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" />](https://ubuntu.com/ "Ubuntu")
  </div>
 
