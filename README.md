@@ -29,7 +29,6 @@
   [<img align="center" alt="JWT" height="30" width="30" src="https://werkraum.net/fileadmin/news_import/jwt_pic_logo.svg.png" />](https://jwt.io/ "JWT")
   [<img align="center" alt="csharp" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />](https://learn.microsoft.com/pt-br/dotnet/csharp/ "Csharp")
   [<img align="center" alt="php" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />](https://learn.microsoft.com/pt-br/dotnet/csharp/ "Php")
-  [<img align="center" alt="Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />](https://docs.python.org/ "Python")
   [<img align="center" alt="Express" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />](https://expressjs.com/ "Express")
   [<img align="center" alt="MySQL" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>](https://www.mysql.com/ "MySQL")
   [<img align="center" alt="mongoDB" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />](https://www.mongodb.com/ "mongoDB")
